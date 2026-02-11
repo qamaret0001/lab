@@ -1,51 +1,61 @@
 # Lab Management System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/lab-management-system)](https://github.com/yourusername/lab-management-system/issues)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/lab-management-system)](https://github.com/yourusername/lab-management-system/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/qamaret0001/lab)](https://github.com/qamaret0001/lab/issues)
+[![GitHub stars](https://img.shields.io/github/stars/qamaret0001/lab)](https://github.com/qamaret0001/lab/stargazers)
 
-A web/mobile application to streamline laboratory operations including **inventory management**, **experiment tracking**, and **staff coordination**. This system improves efficiency, reduces errors, and provides detailed reporting for lab activities.
-
----
-
-## Table of Contents
-- [Features](#features)  
-- [Demo](#demo)  
-- [Technologies](#technologies)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
+A **Lab Management System** built to help users manage laboratory workflows including tracking experiments, lab inventory, and generating reports. The app is designed to improve efficiency and organization in lab environments.
 
 ---
 
-## Features
-- **Inventory Management:** Track chemicals, equipment, and consumables.  
-- **Experiment Tracking:** Log experiments, protocols, and results.  
-- **User Roles:** Admin, Lab Manager, and Researcher with different permissions.  
-- **Reporting:** Generate inventory and experiment reports.  
-- **Notifications:** Alerts for low inventory or upcoming experiments.  
-- **Search & Filter:** Quickly locate experiments, chemicals, or equipment.  
+## 📋 Table of Contents
+
+- [✨ Features](#✨-features)  
+- [📸 Demo](#📸-demo)  
+- [🧰 Technologies](#🧰-technologies)  
+- [⚙️ Installation](#⚙️-installation)  
+- [🚀 Usage](#🚀-usage)  
+- [🤝 Contributing](#🤝-contributing)  
+- [📄 License](#📄-license)
 
 ---
 
-## Demo
-Include screenshots or link to a live demo here.  
+## ✨ Features
 
-![Dashboard Screenshot](link-to-your-screenshot.png)  
-*Example: Lab Dashboard Interface*
-
----
-
-## Technologies
-- **Frontend:** HTML, CSS, JavaScript (or React/Vue/Angular)  
-- **Backend:** Node.js / Django / Flask / Laravel  
-- **Database:** MySQL / PostgreSQL / MongoDB  
-- **Tools:** Git, GitHub, REST API  
+- 📦 **Inventory Management:** Store and track chemicals, equipment, and consumables.  
+- 🧪 **Experiment Tracking:** Log laboratory experiments and results.  
+- 👤 **User Authentication:** Secure login and user access control (Admin & Users).  
+- 📊 **Reports:** Generate detailed reports on experiments and inventory.  
+- ⚡ **Easy Navigation:** Clean and intuitive user interface.
 
 ---
 
-## Installation
-1. Clone the repository:  
-```bash
-git clone https://github.com/yourusername/lab-management-system.git
+## 📸 Demo
+
+Add screenshots or a link to a live demo here to show how your app looks and works.
+
+![Example Screenshot](link-to-your-screenshot.png)
+
+> *Replace the above link with actual screenshot URLs.*
+
+---
+
+## 🧰 Technologies
+
+This project uses the following technologies:
+
+- **Python** for backend  
+- **Flask / Django** (update if different)  
+- **HTML & CSS** for frontend  
+- **SQLite / MySQL / PostgreSQL** for database (update as per your project)  
+- **Git & GitHub** for version control  
+
+---
+
+## ⚙️ Installation
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/qamaret0001/lab.git
